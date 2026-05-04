@@ -27,7 +27,7 @@ As a Student Digital Ambassador, I have developed this Digital Literacy Portfoli
 
 #### Task 3: Coding & Collaboration Platforms
 * **Coding Practice:** Completed a beginner-level challenge on HackerRank to build familiarity with coding platforms.
-* **Collaboration:** Developed a 5-question "Digital Literacy Awareness Quiz" using Google Forms to engage the campus community.
+* **Collaboration:** Developed a 5-question "Digital Literacy Awareness Quiz" using Google Forms to engage the campus community!
 
 #### Task 4: Professional Email & Etiquette
 * **Email Communication:** Drafted formal emails for academic extension requests and internship inquiries following professional protocols.
